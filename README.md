@@ -7,9 +7,9 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:tanure@live.com)
 <br />
 <br />
-
+<!--
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-  
+  -->
 <!-- **Talking about Personal Stuffs:** -->
 <!--
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
