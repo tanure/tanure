@@ -6,14 +6,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tanure@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:tanure@live.com)
 
----
-
-``` csharp
-   public class Ronaldo 
-   {
-     
-   }
-```
 <br />
 <br />
 <br />
