@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [my youtube channel](my youtube channel)
 
-- 📝 I regularly write articles on [Linkedin](Linkedin)
-
 - 💬 Ask me about **Microsoft Technologies, Cloud, Cloud-Native, developer technologies and mentoring**
 
 - 📄 Know about my experiences [http://www.linkedin.com/in/albert-tanure](http://www.linkedin.com/in/albert-tanure)
