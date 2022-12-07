@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **people thought sharing technical knowledge**
 
-- 👨‍💻 All of my projects are available at [my youtube channel](my youtube channel)
-
 - 💬 Ask me about **Microsoft Technologies, Cloud, Cloud-Native, developer technologies and mentoring**
 
 - 📄 Know about my experiences [http://www.linkedin.com/in/albert-tanure](http://www.linkedin.com/in/albert-tanure)
